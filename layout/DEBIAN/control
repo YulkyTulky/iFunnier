@@ -1,0 +1,9 @@
+Package: com.yulkytulky.ifunnier
+Name: iFunnier
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enhance iFunny!
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
